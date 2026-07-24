@@ -5,6 +5,7 @@
 - **Course Name:** Quantum Computing
 - **Course Code:** AML23703
 - **Department:** Artificial Intelligence and Machine Learning
+- **Faculty:** Dr. Roopa B. S.
 - **Institution:** Global Academy of Technology
 - **Student Name:** Mythri M R
 - **USN:** 1GA23AI027
