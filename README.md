@@ -49,9 +49,47 @@ The objective of this tutorial is to understand the fundamentals of quantum comp
 
 ---
 
+# Tutorial 2: Qubits, State Vectors and Superposition Visualization
+
+## Objective
+
+The objective of this tutorial is to understand qubit representation using state vectors and Dirac notation. The tutorial demonstrates quantum superposition, probability amplitudes, and quantum state visualization through practical implementation using Qiskit.
+
+---
+
+## Software Used
+
+- Python
+- Jupyter Notebook
+- Qiskit
+- NumPy
+- Matplotlib
+
+---
+
+## Exercises Completed
+
+- ✅ Single-Qubit State using Pauli-X Gate
+- ✅ Hadamard and Phase (S) Gates
+- ✅ Two-Qubit Equal Superposition
+- ✅ Probability Verification
+- ✅ Real-World Quantum Communication Example
+- ✅ Arbitrary Qubit State Generation
+
+---
+
+## Results
+
+- Successfully created and simulated single and two-qubit circuits.
+- Generated and analyzed quantum state vectors.
+- Verified quantum probability normalization.
+- Demonstrated superposition using Hadamard gates.
+- Explored Bloch Sphere and Q-Sphere concepts.
+- Applied quantum gates to generate different quantum states.
+
 ## Author
 
-**Mythri R**
+**Mythri M R**
 
 Department of Artificial Intelligence and Machine Learning
 
