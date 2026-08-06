@@ -87,6 +87,8 @@ The objective of this tutorial is to understand qubit representation using state
 - Explored Bloch Sphere and Q-Sphere concepts.
 - Applied quantum gates to generate different quantum states.
 
+---
+
 # Tutorial 3: Single-Qubit Quantum Gates
 
 ## Objective
