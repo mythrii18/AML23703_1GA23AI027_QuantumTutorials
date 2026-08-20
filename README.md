@@ -124,6 +124,93 @@ The objective of this tutorial is to understand the operation of fundamental sin
 - Visualized quantum states using Bloch Sphere, Q-Sphere, and State City plots.
 - Simulated a quantum coin flip and analyzed measurement probabilities.
 
+---
+
+# Tutorial 4: Multi-Qubit Gates and Circuit Composition
+
+## Objective
+
+The objective of this tutorial is to understand and implement multi-qubit quantum gates using Qiskit. The tutorial demonstrates controlled operations, quantum entanglement, multi-qubit state preparation, and circuit composition through practical implementation and visualization.
+
+---
+
+## Software Used
+
+- Python
+- Jupyter Notebook
+- Qiskit
+- Qiskit Aer
+- NumPy
+- Matplotlib
+
+---
+
+## Exercises Completed
+
+- ✅ CNOT Gate
+- ✅ Bell State
+- ✅ Three-Qubit GHZ State
+- ✅ Quantum Full Adder
+- ✅ Custom Two-Qubit Entangled State
+
+---
+
+## Results
+
+- Successfully implemented CNOT, CZ and Toffoli-based multi-qubit operations.
+- Verified target-qubit flipping using the CNOT gate.
+- Created and analyzed Bell and GHZ entangled states.
+- Verified entanglement using state vectors and measurement results.
+- Implemented a quantum full adder using CNOT and Toffoli gates.
+- Created a custom two-qubit entangled state with unequal probabilities.
+- Visualized quantum circuits, probability distributions, and measurement outcomes.
+
+---
+
+# Tutorial 5: Quantum Measurement and Probability Analysis
+
+## Objective
+
+The objective of this tutorial is to understand quantum measurement, probability distributions, measurement bases, state collapse, and statistical convergence using Qiskit. The tutorial also explores quantum state estimation and quantum randomness through practical implementation and visualization.
+
+---
+
+## Software Used
+
+- Python
+- Jupyter Notebook
+- Qiskit
+- Qiskit Aer
+- NumPy
+- Matplotlib
+- SciPy
+
+---
+
+## Exercises Completed
+
+- ✅ Hadamard Measurement and Probability Convergence
+- ✅ X-Basis Measurement
+- ✅ Partial Measurement of a Bell Pair
+- ✅ Quantum State Tomography
+- ✅ Quantum Randomness vs Classical Pseudo-Randomness
+
+---
+
+## Results
+
+- Successfully analyzed quantum measurement probabilities using different numbers of shots.
+- Demonstrated convergence of measured probabilities toward theoretical values.
+- Performed X-basis measurement using Hadamard transformations.
+- Demonstrated state collapse and correlation through partial measurement of an entangled Bell pair.
+- Estimated quantum state rotation angles using measurement statistics.
+- Compared quantum randomness with biased classical pseudo-randomness.
+- Applied chi-square statistical testing to analyze randomness.
+- Visualized probability distributions, measurement results, and state estimation using graphs and histograms.
+
+---
+
+
 ## Author
 
 **Mythri M R**
